@@ -1,3 +1,3 @@
 # androidthings-codelabs
 
-My implementation of the [Android Things Codelabs](https://developer.android.com/things/sdk/samples-drivers.html).
+My implementation of the [Android Things Codelabs](https://codelabs.developers.google.com/?cat=Android+Things).
